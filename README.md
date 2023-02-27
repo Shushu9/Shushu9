@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 👨‍💻 All of my projects are available at [https://Shushu9.github.io/Portfolio/](https://Shushu9.github.io/Portfolio/)
+- 👨‍💻 My portfolio is available at [https://Shushu9.github.io/Portfolio/](https://Shushu9.github.io/Portfolio/)
 
 - 📫 How to reach me **pokotilo.gleb1@gmail.com**
 
