@@ -11,11 +11,7 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
-
-- 🌱 I’m currently learning **frontend development**
-
-- 👨‍💻 My portfolio is available at [https://Shushu9.github.io/Portfolio/](https://Shushu9.github.io/Portfolio/)
+- 👨‍💻 In search of a Frontend Developer job.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,3 +45,12 @@
 
 
 ---
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
