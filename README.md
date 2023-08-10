@@ -12,7 +12,7 @@
 
 <h3 align="center">- 👨‍💻 In search of a Frontend Developer job.</h4>
 
-<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -42,7 +42,7 @@
 
 
 <div id="stats" align="center" >
-   <h3 align="center">:fire: My Stats :</h3>
+   <h4 align="center">:fire: My Stats :</h3>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
