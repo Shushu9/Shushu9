@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h4 align="center">- 👨‍💻 In search of a Frontend Developer job.</h4>
+<h3 align="center">- 👨‍💻 In search of a Frontend Developer job.</h4>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -38,12 +38,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
-
 </p>
 
 
 <div id="stats" align="center" >
-### :fire: My Stats :
+   <h3 align="center">:fire: My Stats :</h3>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
