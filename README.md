@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9" /> </p>
+<div id="badges" align="center" >
+   <a href="https://t.me/glebpokotilo">
+    <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+   </a>
+
+<img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" />
+  
+</div>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **frontend development**
 
