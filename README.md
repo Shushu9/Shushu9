@@ -10,12 +10,10 @@
   </a>
 </div>
 
+<h4 align="center">- 👨‍💻 In search of a Frontend Developer job.</h4>
 
-- 👨‍💻 In search of a Frontend Developer job.
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
@@ -44,17 +42,10 @@
 </p>
 
 
----
-
-
+<div id="stats" align="center" >
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Shushu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shushu9)](https://github.com/Shushu9/github-readme-stats)
-
----
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
