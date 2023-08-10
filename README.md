@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h3 align="center">- 👨‍💻 In search of a Frontend Developer job.</h4>
+<h3 align="center"> In search of a Frontend Developer job.</h4>
 
 <h4 align="center">Languages and Tools:</h3>
 <p align="center"> 
