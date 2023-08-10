@@ -51,6 +51,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Shushu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shushu9)](https://github.com/Shushu9/github-readme-stats)
+
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
