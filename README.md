@@ -5,6 +5,9 @@
    <a href="https://t.me/glebpokotilo">
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
+     <a href="https://Shushu9.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=javascript&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
