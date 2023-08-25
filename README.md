@@ -43,6 +43,11 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/Shushu9" target="_blank">
+    <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/Shushu9/badges/large">
+  </a>
+</p>
 
 <div id="stats" align="center" >
    <h4 align="center">:fire: My Stats :</h3>
