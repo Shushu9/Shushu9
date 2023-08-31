@@ -49,11 +49,4 @@
   </a>
 </p>
 
-<div id="stats" align="center" >
-   <h4 align="center">:fire: My Stats :</h3>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
