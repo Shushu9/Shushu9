@@ -38,9 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
  </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
+ 
 </p>
 
 <p align="center">
@@ -48,5 +46,10 @@
     <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/Shushu9/badges/large">
   </a>
 </p>
+
+<div id="stats" align="center" >
+   <h4 align="center">:fire: My Stats :</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shushu9&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shushu9&label=Profile%20views&color=0e75b6&style=flat" alt="Shushu9 Badge" /> </p>
