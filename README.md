@@ -10,7 +10,12 @@
    </a> -->
 </div>
 
-<h3 align="center"> In search of a Frontend Developer job.</h3>
+
+   <a href="https://t.me/glebpokotilo">
+      <h3 align="center"> Working in GitLab since October</h3>
+   </a>
+
+<!--  <h3 align="center"> In search of a Frontend Developer job.</h3> -->
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
