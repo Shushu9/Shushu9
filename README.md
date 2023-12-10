@@ -10,7 +10,7 @@
    </a> -->
 </div>
 
-h3 align="center"> Working in GitLab since october</h3>
+<h3 align="center"> Working in GitLab since october</h3>
 
 <!--  <h3 align="center"> In search of a Frontend Developer job.</h3> -->
 
