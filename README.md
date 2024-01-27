@@ -12,7 +12,7 @@
 
 
 
-<a align="center" href="https://gitlab.com/pokotilo.gleb1"><h3 align="center"> Working in GitLab since october </h3></a>
+<h3 align="center"><a align="center" href="https://gitlab.com/pokotilo.gleb1"> Working in GitLab since october </a></h3>
 
 
 <!--  <h3 align="center"> In search of a Frontend Developer job.</h3> -->
