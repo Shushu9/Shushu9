@@ -10,9 +10,11 @@
    </a> -->
 </div>
 
+
+
 <div align="center">
   <a href="https://gitlab.com/pokotilo.gleb1" target="_blank">
-     <h3 align="center"> Working in GitLab since october</h3>
+       <h3> Working in GitLab since october </h3>
   </a>
 </div>
 
